@@ -1,1 +1,5 @@
-FEB
+brutToNet<- function(salairemensuel) {
+calcul<-
+}
+  
+  
